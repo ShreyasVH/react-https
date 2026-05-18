@@ -1,0 +1,12 @@
+export PORT=
+
+# node 25.8.1 path
+export PATH=
+
+export WDS_SOCKET_PORT=0
+
+export HTTPS=true
+export SSL_CRT_FILE=
+export SSL_KEY_FILE=
+
+export BROWSER=none
