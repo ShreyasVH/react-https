@@ -1,6 +1,6 @@
 export PORT=
 
-# node 26.7.0 path
+# node 26.8.1 path
 export PATH=
 
 export WDS_SOCKET_PORT=0
